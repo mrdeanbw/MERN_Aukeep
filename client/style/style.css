@@ -1,0 +1,15 @@
+.header-text {
+  color: #00D8FF !important;
+}
+
+.default-content {
+  font-size: 20px;
+}
+
+.error {
+  color: red;
+}
+
+.msg {
+  color: #707B7C;
+}
